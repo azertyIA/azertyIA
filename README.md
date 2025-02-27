@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @azertyIA
-- 👀 I’m interested in coding, but I'm getting bad at it again.
-- 🌱 I’m currently learning C#, Python and looking to working with C++.
+- 👀 I've coded for too long and now I'm an electrical engineer.
+- 🌱 I’ve delved too deep into functional language and low-level propoganda.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me ???
+- 📫 How to reach me: my phone.
 
 <!---
 azertyIA/azertyIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
